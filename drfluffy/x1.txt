@@ -1,0 +1,25 @@
+2019-01-19 16:54:08 - root - ERROR -调试: Traceback (most recent call last):
+  File "G:/Python/RESTfull/drfluffy/调试.py", line 75, in <module>
+    raise FileNotFoundError("我是FileNotFountException")
+FileNotFoundError: 我是FileNotFountException
+
+2019-01-19 16:54:08 - root - ERROR -调试: Traceback (most recent call last):
+  File "G:/Python/RESTfull/drfluffy/调试.py", line 77, in <module>
+    raise StopIteration()
+StopIteration
+
+2019-01-19 16:54:08 - root - ERROR -调试: Traceback (most recent call last):
+  File "G:/Python/RESTfull/drfluffy/调试.py", line 79, in <module>
+    raise KeyError()
+KeyError
+
+2019-01-19 16:54:08 - root - ERROR -调试: Traceback (most recent call last):
+  File "G:/Python/RESTfull/drfluffy/调试.py", line 75, in <module>
+    raise FileNotFoundError("我是FileNotFountException")
+FileNotFoundError: 我是FileNotFountException
+
+2019-01-19 16:54:08 - root - ERROR -调试: Traceback (most recent call last):
+  File "G:/Python/RESTfull/drfluffy/调试.py", line 77, in <module>
+    raise StopIteration()
+StopIteration
+
